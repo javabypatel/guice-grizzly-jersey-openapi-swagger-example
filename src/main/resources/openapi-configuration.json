@@ -1,0 +1,27 @@
+{
+  "resourcePackages": [
+    "com.javabypatel.resource"
+  ],
+  "prettyPrint": true,
+  "cacheTTL": 0,
+  "openAPI": {
+    "info": {
+      "version": "1.0.0",
+      "title": "Guice Grizzly Jersey Openapi Swagger Example API",
+      "description": "OpenAPI swagger configuration example in sample project that uses Guice, Grizzly, Jersey.",
+      "contact": {
+        "email": "jayeshmaheshpatel@gmail.com"
+      },
+      "license": {
+        "name": "MIT License",
+        "url": "https://en.wikipedia.org/wiki/MIT_License"
+      }
+    },
+    "servers": [
+      {
+        "url": "http://localhost:8080/OpenAPIExample/",
+        "description": "Guice Grizzly Jersey Openapi Swagger Example API server"
+      }
+    ]
+  }
+}
