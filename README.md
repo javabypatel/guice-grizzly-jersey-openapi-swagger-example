@@ -1,6 +1,7 @@
 # guice-grizzly-jersey-openapi-swagger-example
 
 Sample project to show dynamic generation of OpenAPI Swagger documentation in project using Guice and Jersey.  
+https://javabypatel.blogspot.com/2020/11/swagger-openapi-rest-java-example-using-guice-jersey.html
 
 ### Build the application
 mvn clean install
